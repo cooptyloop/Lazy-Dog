@@ -1,0 +1,42 @@
+h1#top {
+  text-align: center;
+  font-family: Luminari, Verdana, "Lucida Sans Unicode";
+  font-size: 3em;
+  word-spacing: .3em;
+}
+p {
+  font-family: "Comic Sans", Tahoma, Geneva;
+  text-align: center;
+}
+h3.under-title {
+  font-style: italic;
+  text-align: center;
+  letter-spacing: .15em;
+}
+h2#first-step {
+  margin-top: 1em;
+}
+img.first {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+img.second {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+h2#second-step {
+  margin-top: 2.5em;
+}
+h2#third-step {
+  margin-top: 2.5em;
+}
+h2#fourth-step {
+  margin-top: 2.5em;
+}
+video {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
